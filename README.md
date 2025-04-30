@@ -7,4 +7,8 @@ Predicting video saliency is crucial for improving sports video processing effic
 
 ![framework](https://github.com/user-attachments/assets/95356ecf-d79f-47d7-b224-2a14e1c8cf3e)
 
-#### For downloading the AVS dataset, please refer to the conference version of this work. [AVS dataset](https://github.com/MinglangQiao/Sports_saliency)
+#### For downloading the AVS dataset, please refer to [AVS dataset](https://github.com/MinglangQiao/Sports_saliency)
+
+####  The complete code will be made public upon paper acceptance. 
+
+#### If you have any questions, please contact wenshijie@buaa.edu.cn
